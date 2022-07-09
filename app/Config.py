@@ -1,0 +1,3 @@
+Channel_secret='28894369292653e7be667f9ec08f3ded'
+Channel_access_token='eiJXcW4BvbQ/Mc11EgMcwUoPq++qIE1eXuwUPRTGwLWSTT8dgpsTsxKPvUStLxG5gcG33lmb/i1fnMWgdwRvtt8lVyK7qRX5AtS/7ioD4xX/Bh9vsu6iAI3/1zA8j4dp0aPC7n6IKKSy6DBtxBLczAdB04t89/1O/w1cDnyilFU='
+basic_id='@965lxcpo'
